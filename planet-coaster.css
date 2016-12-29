@@ -1608,7 +1608,8 @@ footer ul {
 	text-transform:uppercase;
 	line-height:1;
 	display:none;
-	float:right
+	float:right;
+	font-weight: bold !important;
 }
 .footer__misc .language-switcher span {
 	text-transform:uppercase;
@@ -1880,7 +1881,7 @@ a {
 	text-decoration:none;
 	color:#fff;
 	font-family: PlanetCoaster Thai !important;
-	font-weight: normal !important;
+	font-weight: bold !important;
 }
 a:visited {
 	color:#fff
