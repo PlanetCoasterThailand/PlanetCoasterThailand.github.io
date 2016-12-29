@@ -1880,6 +1880,7 @@ a {
 	text-decoration:none;
 	color:#fff;
 	font-family: PlanetCoaster Thai !important;
+	font-weight: normal !important;
 }
 a:visited {
 	color:#fff
