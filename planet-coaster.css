@@ -1,8 +1,6 @@
 
 
-h1,h2 {
-	font-family: PlanetCoaster Thai !important;
-}
+
 
 
 .animated,.form__success .success-image,div.messages {
@@ -1666,7 +1664,7 @@ footer ul {
 	float:left;
 	display:inline;
 	margin-right:20px;
-	line-height:1
+	line-height:1;
 }
 .gte-tablet .footer__misc .backtotop {
 	display:block
